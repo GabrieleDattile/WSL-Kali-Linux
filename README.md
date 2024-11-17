@@ -20,13 +20,7 @@ Questo script automatizza l'installazione di WSL, Kali Linux e dell'ambiente gra
 
 # Modalità di Utilizzo di Win-KeX
 
-Win-KeX è un ambiente grafico per Kali Linux su WSL che offre diverse modalità di visualizzazione. Questo documento spiega come utilizzare e configurare Win-KeX.
-
----
-
-## Modalità Disponibili
-
-### 1. Modalità a Schermo Intero
+Modalità a Schermo Intero
 Per avviare Win-KeX a schermo intero, esegui il seguente comando:
 ```bash
 kex --win -s
