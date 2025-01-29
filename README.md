@@ -16,7 +16,7 @@ Questo script automatizza l'installazione di WSL, Kali Linux e dell'ambiente gra
 2. Apri **PowerShell** come amministratore.
 3. Esegui il comando seguente per avviare lo script:
    ```powershell
-   .\install-kali-wsl-kex.ps1
+   Set-ExecutionPolicy Bypass -Scope Process -Force; .\script.ps1
 
 # Modalità di Utilizzo di Win-KeX
 
